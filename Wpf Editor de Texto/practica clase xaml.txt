@@ -1,0 +1,32 @@
+<Window x:Class="Wpf_Editor_de_Texto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_Editor_de_Texto"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="89*"/>
+            <RowDefinition Height="331*"/>
+        </Grid.RowDefinitions>
+        <Button 
+            Name ="Boton1" Content = "VELEZ" FontSize="33" BorderBrush="#FF665D5D" Grid.Row="0"
+        >
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF3F3F3" Offset="0"/>
+                    <GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+                    <GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+                    <GradientStop Color="#FF141983" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <StackPanel Grid.Row="1" Background="Black">
+            <Button Content="Boton1" Background="Green"></Button>
+            <Button Content="Boton2" Background="Orange"></Button>
+            <Button Content="Boton3" Background="Pink"></Button>
+        </StackPanel>
+    </Grid>
+</Window>

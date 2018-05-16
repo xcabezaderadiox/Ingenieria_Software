@@ -1,0 +1,10 @@
+C:\Users\IFTS 18\source\repos\Solution_ExploradorWindows\TreeViewListView\obj\Debug\TreeViewListView.csprojResolveAssemblyReference.cache
+C:\Users\IFTS 18\source\repos\Solution_ExploradorWindows\TreeViewListView\obj\Debug\TreeViewListView.Form1.resources
+C:\Users\IFTS 18\source\repos\Solution_ExploradorWindows\TreeViewListView\obj\Debug\TreeViewListView.Properties.Resources.resources
+C:\Users\IFTS 18\source\repos\Solution_ExploradorWindows\TreeViewListView\obj\Debug\TreeViewListView.csproj.GenerateResource.cache
+C:\Users\IFTS 18\source\repos\Solution_ExploradorWindows\TreeViewListView\obj\Debug\TreeViewListView.csproj.CoreCompileInputs.cache
+C:\Users\IFTS 18\source\repos\Solution_ExploradorWindows\TreeViewListView\bin\Debug\TreeViewListView.exe.config
+C:\Users\IFTS 18\source\repos\Solution_ExploradorWindows\TreeViewListView\bin\Debug\TreeViewListView.exe
+C:\Users\IFTS 18\source\repos\Solution_ExploradorWindows\TreeViewListView\bin\Debug\TreeViewListView.pdb
+C:\Users\IFTS 18\source\repos\Solution_ExploradorWindows\TreeViewListView\obj\Debug\TreeViewListView.exe
+C:\Users\IFTS 18\source\repos\Solution_ExploradorWindows\TreeViewListView\obj\Debug\TreeViewListView.pdb

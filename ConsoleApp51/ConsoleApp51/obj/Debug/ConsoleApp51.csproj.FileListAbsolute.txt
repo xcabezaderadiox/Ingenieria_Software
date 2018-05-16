@@ -1,0 +1,7 @@
+C:\Users\IFTS 18\source\repos\ConsoleApp51\ConsoleApp51\bin\Debug\ConsoleApp51.exe.config
+C:\Users\IFTS 18\source\repos\ConsoleApp51\ConsoleApp51\bin\Debug\ConsoleApp51.exe
+C:\Users\IFTS 18\source\repos\ConsoleApp51\ConsoleApp51\bin\Debug\ConsoleApp51.pdb
+C:\Users\IFTS 18\source\repos\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.csprojResolveAssemblyReference.cache
+C:\Users\IFTS 18\source\repos\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.csproj.CoreCompileInputs.cache
+C:\Users\IFTS 18\source\repos\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.exe
+C:\Users\IFTS 18\source\repos\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.pdb

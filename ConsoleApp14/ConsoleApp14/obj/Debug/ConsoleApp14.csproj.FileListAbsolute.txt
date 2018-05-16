@@ -1,0 +1,7 @@
+c:\users\ifts 18\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+c:\users\ifts 18\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+c:\users\ifts 18\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+c:\users\ifts 18\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csprojResolveAssemblyReference.cache
+c:\users\ifts 18\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+c:\users\ifts 18\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+c:\users\ifts 18\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\ConsoleApp14.pdb

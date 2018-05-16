@@ -1,0 +1,6 @@
+C:\Users\IFTS 18\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+C:\Users\IFTS 18\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+C:\Users\IFTS 18\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+C:\Users\IFTS 18\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.CoreCompileInputs.cache
+C:\Users\IFTS 18\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+C:\Users\IFTS 18\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.pdb

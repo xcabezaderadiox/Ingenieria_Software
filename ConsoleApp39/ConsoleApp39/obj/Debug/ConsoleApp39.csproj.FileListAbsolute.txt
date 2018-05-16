@@ -1,0 +1,6 @@
+C:\Users\IFTS 18\source\repos\ConsoleApp39\ConsoleApp39\bin\Debug\ConsoleApp39.exe.config
+C:\Users\IFTS 18\source\repos\ConsoleApp39\ConsoleApp39\bin\Debug\ConsoleApp39.exe
+C:\Users\IFTS 18\source\repos\ConsoleApp39\ConsoleApp39\bin\Debug\ConsoleApp39.pdb
+C:\Users\IFTS 18\source\repos\ConsoleApp39\ConsoleApp39\obj\Debug\ConsoleApp39.csproj.CoreCompileInputs.cache
+C:\Users\IFTS 18\source\repos\ConsoleApp39\ConsoleApp39\obj\Debug\ConsoleApp39.exe
+C:\Users\IFTS 18\source\repos\ConsoleApp39\ConsoleApp39\obj\Debug\ConsoleApp39.pdb

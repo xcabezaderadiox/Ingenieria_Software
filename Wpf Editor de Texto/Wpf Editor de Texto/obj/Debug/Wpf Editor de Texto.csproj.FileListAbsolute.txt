@@ -1,0 +1,15 @@
+c:\users\ifts 18\source\repos\Wpf Editor de Texto\Wpf Editor de Texto\bin\Debug\Wpf Editor de Texto.exe.config
+c:\users\ifts 18\source\repos\Wpf Editor de Texto\Wpf Editor de Texto\bin\Debug\Wpf Editor de Texto.exe
+c:\users\ifts 18\source\repos\Wpf Editor de Texto\Wpf Editor de Texto\bin\Debug\Wpf Editor de Texto.pdb
+c:\users\ifts 18\source\repos\Wpf Editor de Texto\Wpf Editor de Texto\obj\Debug\Wpf Editor de Texto.csprojResolveAssemblyReference.cache
+c:\users\ifts 18\source\repos\Wpf Editor de Texto\Wpf Editor de Texto\obj\Debug\MainWindow.g.cs
+c:\users\ifts 18\source\repos\Wpf Editor de Texto\Wpf Editor de Texto\obj\Debug\App.g.cs
+c:\users\ifts 18\source\repos\Wpf Editor de Texto\Wpf Editor de Texto\obj\Debug\Wpf Editor de Texto_MarkupCompile.cache
+c:\users\ifts 18\source\repos\Wpf Editor de Texto\Wpf Editor de Texto\obj\Debug\Wpf Editor de Texto_MarkupCompile.lref
+c:\users\ifts 18\source\repos\Wpf Editor de Texto\Wpf Editor de Texto\obj\Debug\MainWindow.baml
+c:\users\ifts 18\source\repos\Wpf Editor de Texto\Wpf Editor de Texto\obj\Debug\Wpf Editor de Texto.g.resources
+c:\users\ifts 18\source\repos\Wpf Editor de Texto\Wpf Editor de Texto\obj\Debug\Wpf_Editor_de_Texto.Properties.Resources.resources
+c:\users\ifts 18\source\repos\Wpf Editor de Texto\Wpf Editor de Texto\obj\Debug\Wpf Editor de Texto.csproj.GenerateResource.cache
+c:\users\ifts 18\source\repos\Wpf Editor de Texto\Wpf Editor de Texto\obj\Debug\Wpf Editor de Texto.csproj.CoreCompileInputs.cache
+c:\users\ifts 18\source\repos\Wpf Editor de Texto\Wpf Editor de Texto\obj\Debug\Wpf Editor de Texto.exe
+c:\users\ifts 18\source\repos\Wpf Editor de Texto\Wpf Editor de Texto\obj\Debug\Wpf Editor de Texto.pdb

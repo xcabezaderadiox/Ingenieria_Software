@@ -1,0 +1,12 @@
+//DECLARO VARIABLE POR FUERA  
+string RutaArchivo { get; set; } 
+ 
+//FUNCION ABRIR Y GUARDAR ARCHIVO
+RutaArchivo = openFileDialog1.FileName;  
+File.WriteAllText(RutaArchivo, txteditor.Text); 
+
+
+agregar propiedades al textbox
+AcceptsReturn = true 
+AcceptsTab = true; 
+ 

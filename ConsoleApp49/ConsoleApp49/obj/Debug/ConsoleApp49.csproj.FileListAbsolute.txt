@@ -1,0 +1,6 @@
+C:\Users\IFTS 18\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\ConsoleApp49.exe.config
+C:\Users\IFTS 18\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\ConsoleApp49.exe
+C:\Users\IFTS 18\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\ConsoleApp49.pdb
+C:\Users\IFTS 18\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\ConsoleApp49.csproj.CoreCompileInputs.cache
+C:\Users\IFTS 18\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\ConsoleApp49.exe
+C:\Users\IFTS 18\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\ConsoleApp49.pdb

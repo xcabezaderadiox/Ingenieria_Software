@@ -1,0 +1,6 @@
+C:\Users\IFTS 18\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe.config
+C:\Users\IFTS 18\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe
+C:\Users\IFTS 18\source\repos\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.pdb
+C:\Users\IFTS 18\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\Users\IFTS 18\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.exe
+C:\Users\IFTS 18\source\repos\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.pdb
